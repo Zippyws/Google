@@ -1,0 +1,17 @@
+body{margin:0 auto; font-size: 14px;}
+#logo{text-align: center; margin: 10px 0;}
+#main{width: 90%; margin: 0 auto;}
+#search{background-color: #eee; text-align: center;width: 100%; padding: 2px 0;}
+h5{display: block; margin: 0 auto; font-size:16px;}
+#search form input.text{width:320px; height: 20px;
+display: block; margin:0 auto;}
+#links {text-align: center; height: 84px;}
+.link-left{background-color: #7ee5da; width: 30%; display: block; float: left; border-right: 3px solid #fff;
+padding: 10px 0; font-size: 16px; height: 64px;}
+.link-left span{display: block;}
+.link-left a, .link-middle a {display: block;}
+.link-middle{background-color: #70ccc2; width: 20%; display: block; float: left; border-right: 3px solid #fff; padding: 10px 0;height: 64px;}
+.link-right {background-color: #62b3aa; width: 48.7%; display: flex; flex-direction: column; float: right;  height: 84px; }
+.link-right form .e-mail{display: block; margin: 0 auto; height: 20px;}
+.link-right form .subscribe {margin-right: 5px;}
+footer {display: block; margin-top: 15px; text-align: center;}
